@@ -1,2 +1,0 @@
-# horasTrabalhadas
-teste
